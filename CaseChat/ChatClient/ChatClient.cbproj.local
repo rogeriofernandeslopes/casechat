@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/19 16:14:08.000.299,=C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/08/19 16:14:08.000.323,=C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/08/19 16:15:31.000.874,C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Desenv\Chat\ChatClientMain.dfm</Transaction>
+    <Transaction>2018/08/19 16:15:31.000.874,C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Desenv\Chat\ChatClientMain.cpp</Transaction>
+    <Transaction>2018/08/19 16:15:31.000.874,C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Desenv\Chat\ChatClientMain.h</Transaction>
+    <Transaction>2018/08/19 16:15:50.000.492,C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Desenv\Chat\Project1PCH1.h</Transaction>
+    <Transaction>2018/08/19 16:16:01.000.036,C:\Desenv\Chat\Project1PCH1.h=C:\Desenv\Chat\ChatClientPCH1.h</Transaction>
+    <Transaction>2018/08/19 16:16:01.000.053,C:\Users\Rogerio\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Desenv\Chat\ChatClient.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
