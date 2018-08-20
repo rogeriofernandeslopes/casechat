@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/19 16:59:08.564.cpp,C:\Users\Rogerio\Documents\RAD Studio\Projects\Unit1.cpp=C:\Desenv\chat\chatServer\chatServerMain.cpp</Transaction>
+    <Transaction>2018/08/19 16:59:08.564.h,C:\Users\Rogerio\Documents\RAD Studio\Projects\Unit1.h=C:\Desenv\chat\chatServer\chatServerMain.h</Transaction>
+    <Transaction>2018/08/19 16:59:08.564.dfm,C:\Users\Rogerio\Documents\RAD Studio\Projects\Unit1.dfm=C:\Desenv\chat\chatServer\chatServerMain.dfm</Transaction>
+    <Transaction>2018/08/19 16:59:20.177.cbproj,C:\Users\Rogerio\Documents\RAD Studio\Projects\Project1.cbproj=C:\Desenv\chat\chatServer\ChatServer.cbproj</Transaction>
+    <Transaction>2018/08/19 18:28:02.810.cpp,C:\Desenv\chat\chatServer\Unit1.cpp=C:\Desenv\chat\chatServer\Cedro.cpp</Transaction>
+    <Transaction>2018/08/19 18:28:02.810.h,C:\Desenv\chat\chatServer\Unit1.h=C:\Desenv\chat\chatServer\Cedro.h</Transaction>
+  </Transactions>
+</BorlandProject>
